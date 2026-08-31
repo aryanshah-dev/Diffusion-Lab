@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Diffusion Lab\\x64\\Debug\\Diffusion Lab.obj",
+            "outputs": [
+                "Diffusion Lab\\x64\\Debug\\Diffusion Lab.cpp.obj.dt.module.json",
+                "Diffusion Lab\\x64\\Debug\\Diffusion Lab.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
